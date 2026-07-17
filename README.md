@@ -1,5 +1,9 @@
 # ML-Dungeon
 
+<img src="IronHacker-cut2.png"></img>
+
+<br>
+
 Here's **ML Dungeon** — a 3-level RPG built around a dungeon-crawler:
 
 - **Level 1, Slime Caverns** — 3 slimes, questions on overfitting, train/test splits, and features
