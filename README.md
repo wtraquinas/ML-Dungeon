@@ -14,6 +14,8 @@ Each scene has a custom SVG background and character (hand-drawn, not stock phot
 
 Open the file to try it — click "Begin Quest" to start.
 
+Demo: https://wtraquinas.github.io/ML-Dungeon/
+
 <br>
 
 ---
